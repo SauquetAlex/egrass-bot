@@ -16,7 +16,7 @@ export enum Channels {
 	Announcements = "1170548119881138207",
 	Starboard = "1374949544923500594",
 	/** Bots channel, where bounty notices are posted */
-	Wordle = "1385089576447643658",
+	Wordle = "1555737942557855825", // Personal test server
 }
 
 export enum ChannelCategories {
@@ -34,7 +34,7 @@ export enum Emoji {
 export enum QuoteCategories {}
 
 export enum Guilds {
-	Egrass = "1154149509446770808",
+	Egrass = "1555737551648718948", // Personal test server
 }
 
 /** Maximum length of a Discord message's content */
